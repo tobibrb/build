@@ -1,2 +1,2 @@
 language: java
-after_success: mvn verify
+script: mvn verify
